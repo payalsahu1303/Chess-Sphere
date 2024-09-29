@@ -21,4 +21,4 @@ Welcome to **Chess Sphere**, an interactive chess website built with React and C
 ## Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/chess-sphere.git
+   git clone https://github.com/payalsahu1303/Chess-Sphere.git
